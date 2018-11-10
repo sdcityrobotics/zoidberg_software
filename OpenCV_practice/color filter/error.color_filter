@@ -1,4 +1,0 @@
-File "pythontest.py", line 8, in <module>
-    hsv = cv2.cvtColor(crop, cv2.COLOR_BGR2HSV)
-cv2.error: OpenCV(3.4.3) /home/conda/feedstock_root/build_artifacts/opencv_1539049025645/work/modules/imgproc/src/color.cpp:181: 
-error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
