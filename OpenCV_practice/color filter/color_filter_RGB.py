@@ -1,3 +1,12 @@
+# Highlights pixels that are within the hue light saturation (HSV) range for a red bouy
+
+# '005.jpg' is an image of 3 different colored bouys in the water
+# 'R_005.jpg' is a cropped image of the red bouy in '005.jpg'
+
+# Summary of approach:
+#   - Get a HSV range for a red bouy from 'R_005.jpg'
+#   - Highlight all pixels in '005.jpg' that are within this HSV range
+
 import cv2
 import numpy as np
  
