@@ -1,6 +1,6 @@
-To clone this repository, type this into the terminal:
+#To clone this repository
 
-git clone https://github.com/sdcityrobotics/zoidberg_software/
+`git clone https://github.com/sdcityrobotics/zoidberg_software/`
 
 
 
