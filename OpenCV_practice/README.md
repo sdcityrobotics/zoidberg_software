@@ -1,6 +1,8 @@
-If you're having errors when running these files, check your python and opencv versions.
+To clone this repository, type this into the terminal:
+git clone https://github.com/sdcityrobotics/zoidberg_software/
 
-This is what I'm using and it's working:
+
+If you're having errors when running these files, check your python and opencv versions. This is what I'm using and it's working:
 Python 2.7.15
 OpenCV 2.4.11
 
