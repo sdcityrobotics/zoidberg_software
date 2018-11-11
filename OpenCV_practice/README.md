@@ -17,13 +17,13 @@ Check your python and opencv versions. I'm using the following:
 Python 2.7.1
 OpenCV 2.4.11
 
-To download a specific opencv version, create a new anaconda environment, activate it, then install that specific version:
+To download the opencv version above:
 
 `conda create --name new_environment`
 
 `source activate new_environment`
 
-`conda install opencv=2.4`
+`conda install -c menpo opencv`
 
 Upload your own code
 ---------------------
