@@ -25,6 +25,10 @@ To download the opencv version above:
 
 `conda install -c menpo opencv`
 
+OR you can follow this tutorial for isntalling OpenCV on your system python (you do not need anaconda for this):
+*change OPENCV_VERSION='3.2.0'*
+`https://github.com/milq/milq/blob/master/scripts/bash/install-opencv.sh`
+
 Upload your own code
 ---------------------
 We want to learn from each other, so please upload any code you've been working on! Don't forget to comment your code as much as possible so that we can all understand you're train of thought
