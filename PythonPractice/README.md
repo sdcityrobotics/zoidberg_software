@@ -21,11 +21,6 @@ This is the platform we use for Python and OpenCV.
   
   * You should see Hello World! in the IPython Console
   
-Getting started with Python
-=============================
-Check out some tutorials here:
-
-https://github.com/SDMesaIRL/Python-Workshops
 
 Getting started with the GitHub Repository 
 ============================================
