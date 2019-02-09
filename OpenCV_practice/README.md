@@ -1,5 +1,5 @@
-Getting started with OpenCV
-============================
+Getting started with OpenCV - On Mac or Windows
+=================================================
 
 * In Anacoda, go to the Environment tab and click at the bottom to create a new envirnment
   
