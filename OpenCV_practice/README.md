@@ -1,35 +1,25 @@
-Getting started
-=================
+Getting started with OpenCV
+============================
 
-Clone this repository
------------------------
-This will download all the files in this repository to your current folder.
+* In Anacoda, go to the Environment tab and click at the bottom to create a new envirnment
+  
+  * Choose Python (?)
 
-`git clone https://github.com/sdcityrobotics/zoidberg_software/`
+* Click Not Installed and search for OpenCV
+
+* Select OpenCV and click Apply at the bottom
+
+* Assuming you have already cloned the repositry, move an image into the OpenCV_practice folder
+
+* Open and run `tutorial.py`
+
+* To further make sure this works, open the sample_object_detection folder and open and run `run.py`
 
 Read, run, and try to understand all the files in this repository
 -------------------------------------------------------------------
-Read all the files in this repository and try to undestand what's going on. Run them on your own comptuer and see if you were right. Play around with it by changing some things around and seeing what happens. Google anything that's new or confusing. If you still have questins, post in the 'software write permissions' discussion group or on slack.
+Read all the files in this repository and try to undestand what's going on. Run them on your own comptuer and see if you were right. Play around with it by changing some things around and seeing what happens. Google anything that's new or confusing. If you still have questins, post slack or in the 'software write permissions' discussion group.
 
-If you're having errors when running these files
--------------------------------------------------
-Check your python and opencv versions. I'm using the following:
-Python 2.7.1
-OpenCV 2.4.11
-
-To download the opencv version above:
-
-`conda create --name new_environment`
-
-`source activate new_environment`
-
-`conda install -c menpo opencv`
-
-OR you can follow this tutorial for isntalling OpenCV on your system python (you do not need anaconda for this):
-
-*change OPENCV_VERSION='3.2.0'*
-
-`https://github.com/milq/milq/blob/master/scripts/bash/install-opencv.sh`
+Check out some of the OpenCV tutorials: https://docs.opencv.org/3.4.0/d9/df8/tutorial_root.html
 
 Upload your own code
 ---------------------
