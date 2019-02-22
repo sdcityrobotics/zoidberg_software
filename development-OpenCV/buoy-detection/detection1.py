@@ -70,6 +70,8 @@ for contour in contours:
 print('total valid ratios: ', count)
 
 # display
+for buoy in buoys:
+   cv2.drawContours(img_color, [buoy], -1, (255, 255, 0), 2)
 cv2.imshow('Contours', img_color)
 #cv2.imshow('all contours', img_allcontours)
 
