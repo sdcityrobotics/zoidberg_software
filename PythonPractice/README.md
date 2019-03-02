@@ -39,3 +39,10 @@ Follow these steps:
   
   * Click `Clone or Download` -> `Download ZIP`
   
+ # **Learning Python**
+ 
+ There are *many* options on the Internet for learning, including interactive websites, YouTube and googling any problems you are having. Here are a couple websites that are useful for getting started: 
+ 
+ [learnpython.org](https://www.learnpython.org/) and [pythonprogramming.net](https://pythonprogramming.net/introduction-learn-python-3-tutorials/)
+ 
+  
