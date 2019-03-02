@@ -21,6 +21,8 @@ Read all the files in this repository and try to undestand what's going on. Run 
 
 Check out some of the OpenCV tutorials: https://docs.opencv.org/3.4.0/d9/df8/tutorial_root.html
 
+Here is a [video tutorial series](https://pythonprogramming.net/loading-images-python-opencv-tutorial/) that walks you through how OpenCV and its functions work!
+
 Upload your own code
 ---------------------
 We want to learn from each other, so please upload any code you've been working on! Don't forget to comment your code as much as possible so that we can all understand you're train of thought
