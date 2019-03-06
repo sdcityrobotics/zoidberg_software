@@ -85,10 +85,10 @@ for buoy in buoys:
       		#and within q pixels of the center in x, then it is an outlier 
       		if (point[1] > center[1] and (point[0] > center[0] - q and point[0] < center[0]+q)): 
          		outliers = outliers + 1 
-   		#print('outliers: ', outlier)
-   		#print('radius: ', radius, '\n')
-   		if (outliers > 1): #if a contour has too many outliers, it's noise
-      			continue
+   	#print('outliers: ', outlier)
+   	#print('radius: ', radius, '\n')
+   	if (outliers > 1): #if a contour has too many outliers, it's noise
+      		continue
 
 	cv2.drawContours(img_color, [buoy], -1, (255, 255, 0), 2)
 	img_color = cv2.circle(img_color, center, radius, (0, 255, 0), 2)
