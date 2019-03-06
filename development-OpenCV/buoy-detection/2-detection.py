@@ -71,11 +71,26 @@ print('total valid ratios: ', count)
 # display
 
 for buoy in buoys:
-	cv2.drawContours(img_color, [buoy], -1, (255, 255, 0), 2)	
 	(x,y),radius = cv2.minEnclosingCircle(buoy)
 	#y = y + 11
 	center = (int(x), int(y))
 	radius = int(radius)
+	
+	# Removing contours that are actually noise
+   	q = (radius*3)/4 #arbitary distance from the center
+   	outliers = 0; #number of points in an unexpected location
+   	for point in buoy:
+     		point = point[0]
+      		#if the pointis below the center of the circle (in y)
+      		#and within q pixels of the center in x, then it is an outlier 
+      		if (point[1] > center[1] and (point[0] > center[0] - q and point[0] < center[0]+q)): 
+         		outliers = outliers + 1 
+   		#print('outliers: ', outlier)
+   		#print('radius: ', radius, '\n')
+   		if (outliers > 1): #if a contour has too many outliers, it's noise
+      			continue
+
+	cv2.drawContours(img_color, [buoy], -1, (255, 255, 0), 2)
 	img_color = cv2.circle(img_color, center, radius, (0, 255, 0), 2)
 
 
