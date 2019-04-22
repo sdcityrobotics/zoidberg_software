@@ -1,6 +1,6 @@
 This directory serves as the OpenCV development section of the zoidberg_software repository. 
 
-Currently there are a couple projects in progress, where you can find the details of each in `details.txt`, which include notes for future algorithms, ideas and tweaks.
+Currently there are a couple projects in progress, where you can find the details of each in `details.txt`, which include notes for future algorithms, ideas and tweaks. (now currently in /example_functions)
 
 Feel free to `clone` this directory to experiment!
 

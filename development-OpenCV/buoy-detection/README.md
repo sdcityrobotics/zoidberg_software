@@ -1,1 +1,3 @@
-detection1.py and modified-detection.py are the same, just different methods of displaying.
+directory: previous_versions - previous versions of buoy detection
+
+directory: working - up-to-date buoy detection algorithm
