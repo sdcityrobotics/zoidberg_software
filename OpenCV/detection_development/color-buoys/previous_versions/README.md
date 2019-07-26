@@ -1,0 +1,1 @@
+These files are all previous versions (may not be executable) of the buoy detection script created in the development phase of this algorithm. Always save your work as you code but keep backup files just in case!

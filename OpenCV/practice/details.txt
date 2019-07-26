@@ -1,0 +1,33 @@
+Notes on sobel-y.py:  
+
+For future hypothetical algorithm (bouys for now)
+	- will have (numTests) to determine if an object is a bouy or not by; 
+	1) Identifying a distinct curve ('Sobel Y' in imshow)
+	2) Detecting the "v-shape" from the bottom of the bouy ('Sobel-Noisy' in imshow)
+	3) Finding the amount of "blackspace" (non-white pixels) between this curve and the bottom "v" of the bouy, 
+	which is found from 2)	
+	4) (additional tests ... )
+	
+	Then, if (numTests - 1) passes, then the object detected must be a bouy
+
+
+Notes on encloseCircle.py and moments.py: 
+
+Both find similar centers/centroids with 'basketball.jpg', a 3D image of a basketball, 
+which are both wrong, still need to tweak things. 
+
+With '2d-circle.png', moments.py finds the center of the circle perfectly, but 
+finds a contour area = 75158.0, very wrong... while encloseCircle.py doesn't 
+find the center of the circle at all, as it just covers all 4 corners of the 
+circle's image, which can be seen easier when comparing with 'og'. 
+
+
+Notes on edge.py: 
+
+Similar method of detecting things as sobel-y.py, this time using the 
+sobel derivative function WRT x instead of y, which is better at finding 
+edges rather than curves. It's able to find the goal post in 'goalpost.jpg' easily, 
+while in unrealistically noisy backgrounds ('soccer-goal-noisy.jpg'), it has more 
+trouble, but with use of other OpenCV functions it could be useful for gates or objects with edges.
+
+
