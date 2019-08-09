@@ -1,9 +1,9 @@
-Getting started with Anaconda 
+Getting started with Anaconda
 ==============================
 
-This is the platform we use for Python and OpenCV. 
+This is the platform we use for Python and OpenCV.
 
-* Download Anaconda 3 and then follow the instructions: 
+* Download Anaconda 3 and then follow the instructions:
 
   * https://www.anaconda.com/distribution/
 
@@ -16,13 +16,13 @@ This is the platform we use for Python and OpenCV.
 * Create HelloWorld in Python
 
   * Create a new file called `helloworld.py`
-  
-  * Type the following in the first line: `print("Hello World!")`
-  
-  * You should see Hello World! in the IPython Console
-  
 
-Getting started with the GitHub Repository 
+  * Type the following in the first line: `print("Hello World!")`
+
+  * You should see Hello World! in the IPython Console
+
+
+Getting started with the GitHub Repository
 ============================================
 
 Follow these steps:
@@ -34,15 +34,18 @@ Follow these steps:
 * Clone the repository
 
   * Go to the following URL:
-  
+
     * https://github.com/sdcityrobotics/zoidberg_software
-  
+
   * Click `Clone or Download` -> `Download ZIP`
-  
+
  # **Learning Python**
- 
- There are *many* options on the Internet for learning, including interactive websites, YouTube and googling any problems you are having. Here are a couple websites that are useful for getting started: 
- 
- [learnpython.org](https://www.learnpython.org/) and [pythonprogramming.net](https://pythonprogramming.net/introduction-learn-python-3-tutorials/)
- 
-  
+
+ There are *many* options on the Internet for learning, including interactive websites, YouTube and googling any problems you are having. Here are a couple websites that are useful for getting started:
+
+Table of Contents
+
+Introduction
+ [learnpython.org](https://www.learnpython.org/) and [pythonprogramming.net](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) [Automate the Boring Stuff](https://automatetheboringstuff.com)
+
+
