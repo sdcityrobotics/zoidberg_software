@@ -46,6 +46,6 @@ Follow these steps:
 Table of Contents
 
 Introduction
- [learnpython.org](https://www.learnpython.org/) and [pythonprogramming.net](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) [Automate the Boring Stuff](https://automatetheboringstuff.com)
+[learnpython.org](https://www.learnpython.org/) , [pythonprogramming.net](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) ,and [Automate the Boring Stuff](https://automatetheboringstuff.com)
 
 
