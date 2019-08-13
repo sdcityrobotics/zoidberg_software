@@ -29,7 +29,7 @@ install missing dependacies and reboot
 
 `sudo apt upgrade`
 
-`sudo apt install python3-pip glances python3-serial python3-setuptools python3-scipy`
+`sudo apt install python3-pip glances python3-serial python3-setuptools python3-scipy git curl`
 
 ## Allowing x11 forwarding
 | #/etc/ssh/sshd_config   |  
