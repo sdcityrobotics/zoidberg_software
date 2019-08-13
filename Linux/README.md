@@ -31,21 +31,24 @@ install missing dependacies and reboot
 
 `sudo apt install python3-pip glances python3-serial python3-setuptools python3-scipy git curl`
 
+
+
+# WORK IN PROGRESS BEYOND THIS POINT
+
 ## Allowing x11 forwarding
-| #/etc/ssh/sshd_config   |  
-| ---------------------- | 
+| #/etc/ssh/sshd_config   |
+| ---------------------- |
 | X11Forwarding yes      |
-| X11DisplayOffset 10     | 
+| X11DisplayOffset 10    |
 | X11UseLocalhost no     |
 ## Setup git on tx2
+A quick `git clone` can enable you to clone the full repository
+`mkdir ~/github && cd ~/github && git clone https://github.com/sdcityrobotics/zoidberg_software && git clone https://github.com/sdcityrobotics/zoidberg `
 
 ### Linux Documentation
 ## Getting started with linux
-
-## Getting started with the tx2
-
-## Setting up dependacies
-
-## Allowing x11 forwarding
-
-## Setup git on tx2
+To get started with Linux you can watch an asortment of videos
+Topics can include
+creating systemd services
+system updates
+disabling hibernation
