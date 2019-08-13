@@ -8,10 +8,10 @@ Please use this channel to share helpful code with your fellow software teammate
 
 
 ## Structure of this repo
-     +-------------------+
-     | Zoidberg Software |
-     +--------+----------+
-     |        |          |
-+----v---+ +--v----+  +--v-----+
-| Python | | Linux |  | OpenCV |
-+--------+ +-------+  +--------+
+      +-------------------+
+      | Zoidberg Software |
+      +--------+----------+
+      |        |          |
+ +----v---+ +--v----+  +--v-----+
+ | Python | | Linux |  | OpenCV |
+ +--------+ +-------+  +--------+
