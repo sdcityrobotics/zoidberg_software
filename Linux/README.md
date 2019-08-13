@@ -45,10 +45,9 @@ install missing dependacies and reboot
 A quick `git clone` can enable you to clone the full repository
 `mkdir ~/github && cd ~/github && git clone https://github.com/sdcityrobotics/zoidberg_software && git clone https://github.com/sdcityrobotics/zoidberg `
 
-### Linux Documentation
 ## Getting started with linux
-To get started with Linux you can watch an asortment of videos
-Topics can include
-creating systemd services
-system updates
-disabling hibernation
+* To get started with Linux you can watch an asortment of videos
+* Topics can include
+* creating systemd services
+* system updates
+* disabling hibernation
