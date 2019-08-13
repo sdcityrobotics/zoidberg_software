@@ -28,9 +28,20 @@ install missing dependacies and reboot
 'sudo apt install python3-pip glances python3-serial python3-setuptools python3-scipy install'
 
 ## Allowing x11 forwarding
-| #/etc/ssh/sshd_config  |   |
-| ---------------------- |   |
-| X11Forwarding yes      |   |
-| X11DisplayOffset 10    |   |
-| X11UseLocalhost no     |   |
+| #/etc/ssh/sshd_config   |  
+| ---------------------- | 
+| X11Forwarding yes      |
+| X11DisplayOffset 10     | 
+| X11UseLocalhost no     |
 ## Setup git on tx2
+
+###Linux Documentation
+##Getting started with linux
+
+##Getting started with the tx2
+
+##Setting up dependacies
+
+##Allowing x11 forwarding
+
+##Setup git on tx2
