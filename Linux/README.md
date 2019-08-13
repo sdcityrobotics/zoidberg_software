@@ -12,7 +12,7 @@ Once we have flashed the **TX2** we are able to boot in. While it may seem like 
 ## Modify the bootloader to target the propper EMMC flash
 to modify the sd card to be bootible we must flash the existing memory onto our sd card.
 
-'sudo cp -ax / ‘/media/nvidia/SD’'
+‘sudo cp -ax / ‘/media/nvidia/SD’‘
 Here we are running the copy command as a super user  saying we want to target our root directory and our destination will be our sd card labeled SD
 Once we have copied the contents to our sd card we can proceed to modify the boot configuration on our SD card location.
 
@@ -23,9 +23,9 @@ We have to find and modify the section labeled 'root=' to 'root=/dev/mmcblk1p1'
 Save and reboot. If sucessful a 16~ gig MMC should be avaliable.
 ## Setting up dependacies
 install missing dependacies and reboot
-'sudo apt update'
-'sudo apt upgrade'
-'sudo apt install python3-pip glances python3-serial python3-setuptools python3-scipy install'
+‘sudo apt update‘
+‘sudo apt upgrade‘
+‘sudo apt install python3-pip glances python3-serial python3-setuptools python3-scipy install‘
 
 ## Allowing x11 forwarding
 | #/etc/ssh/sshd_config   |  
