@@ -6,8 +6,8 @@ The use case for our pixhawk or any exploration ,with the pixhawks capabilities 
 
 
 For our initial wiring we test the motor controls, this is symbolic to our production tests these may be simplified or expanded.
-![wiring](wiring.png)
+![wiring](/images/wiring.png?raw=true)
 
 
 The Diagram for how we will be be using our own implimentation is similar to this one are provided under  [CC-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[components](software-components.jpg)
+![components](/images/software-components.jpg?raw=true)
