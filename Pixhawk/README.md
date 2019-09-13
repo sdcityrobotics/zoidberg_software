@@ -1,4 +1,4 @@
-The Pixhawk is a gernel perpose PWM controller with built in features. We will not bei using the full set of features but some are mandatory for most of the uses(Land, Water, Air)
+The Pixhawk is a general perpose PWM controller with built in features. We will not be using the full set of features but some are mandatory for most of the uses(Land, Water, Air)
 
 For our use case we will be using the Pixhawk as a general use submersible. For this we will be using the [ARDUSUB](https://www.ardusub.com/) branch of [Ardupilot](https://docs.px4.io/v1.9.0/en/flight_controller/pixhawk_series.html).
 
