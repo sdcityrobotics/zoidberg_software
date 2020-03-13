@@ -79,3 +79,4 @@ A quick `git clone` can enable you to clone the full repository
 * creating systemd services
 * system updates
 * disabling hibernation
+* automation systemd
