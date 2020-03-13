@@ -6,7 +6,7 @@ Linux Tutorial
 * Configuration
 * Tools
 * Compiliation
-
+* [TX2](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux#getting-started-with-the-tx2)
 1. Linux
 	* I'd just like to interject for moment. What you're referring to as Linux, is in fact, GNU/Linux, or as I've recently taken to calling it,uGNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.
 	Many computer users run a modified version of the GNU system every day, without realizing it. Through a peculiar turn of events, the version of GNU which is widely used today is often called Linux, and many of its users are not aware that it is basically the GNU system, developed by the GNU Project.
