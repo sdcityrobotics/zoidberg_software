@@ -1,9 +1,9 @@
-### Linux Documentation
+# Linux Documentation
 Linux Tutorial
-* Linux
-* Shell
-* Commands
-* Configuration
+* [Linux](#linux-documentation)
+* [Shell](Shell)
+* [Commands](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux#commands)
+* [Configuration](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux#configuration-of-the-operating-system)
 * Tools
 * Compiliation
 * [TX2](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux#getting-started-with-the-tx2)
