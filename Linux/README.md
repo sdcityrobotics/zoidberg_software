@@ -19,7 +19,9 @@ we use *bash* for questions include bash in your search terms
 
 # Commands
 Commands are programs we run in the shell. Many commands follow the syntax of "command --argument" to find more information about a command prefix a command with man(for manual) This will output most of the information needed. To better find the information pipe( | ) the command into grep than include the keyword (man ls | grep list)
-TL;DR
+
+## TL;DR
+These are the commands you must be familiar with
 
 * [ls](https://en.wikipedia.org/wiki/Ls)
 * [cd](https://en.wikipedia.org/wiki/Cd_(command))
@@ -34,6 +36,8 @@ Most linux distributions have similar ways of configuration, the main difference
 For example your shell will be bash, when the command bash is ran, the configuration is loaded from the run command. The file is most offten is located at "~/.bashrc" These symbols all have a specific meaning. This is offten refered to the path. The tilda symbol is a refrence to the home directory of the current user(Who you are logged in as.
 The slash is a refrence to the next directory, unlike windows linux uses forward slash
 
+## TL;DR
+Learn about the alias command and add them to either the .bashrc file or impliment a .bash_alias file you will save a lot of time
 4. [Alias](https://youtu.be/vz2DGSBBpXg)(aka how to save your fingers from repeated torture)
 5. [Linux Directories](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 While working on the **TX2** many of guides will inform you of packages and methods to install **packages** will be 90% true. This is because while the TX2 does run on linux, the kernnel version or ubuntu version may differ.
