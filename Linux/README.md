@@ -1,7 +1,7 @@
 # Linux Documentation
 Linux Tutorial
 * [Linux](#linux-documentation)
-* [Shell](Shell)
+* [Shell](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux#Shell)
 * [Commands](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux#commands)
 * [Configuration](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux#configuration-of-the-operating-system)
 * Tools
