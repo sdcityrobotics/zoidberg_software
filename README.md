@@ -3,7 +3,7 @@
 * [Python(Manipulating Libaries)](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Python)
 * [Electrical(Power)](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Electrical)
 
-* [Linux(Raspberry Pi, Nvida Tx1)](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux)
+* [Linux(Raspberry Pi, Nvida Tegra)](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Linux)
 
 * [Arduino(Pixhawk)](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Pixhawk)
 
