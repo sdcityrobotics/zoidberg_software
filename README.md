@@ -1,5 +1,5 @@
 # zoidberg_software
-* [Tutorial](Tutorial)
+* [Tutorial](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Tutorial)
 * [Python(Manipulating Libaries)](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Python)
 * [Electrical(Power)](https://github.com/sdcityrobotics/zoidberg_software/tree/master/Electrical)
 

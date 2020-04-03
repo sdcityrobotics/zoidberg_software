@@ -2,4 +2,5 @@
 ## Downloads
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. [Github Desktop](https://desktop.github.com/)
-
+3. [zoidberg_software](https://github.com/sdcityrobotics/zoidberg_software)
+4. [zoidberg](https://github.com/sdcityrobotics/zoidberg)
